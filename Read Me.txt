@@ -1,0 +1,20 @@
+1. Name (Project heading) : 1045_CameraContact
+
+2. Remote Centre ID (RC_ID) : 1045
+
+3. College / Institute Name : Saveetha Engineering College
+
+4. City, State, Pin Code : Thandalam,Tamil Nadu,Chennai 602105,
+
+5. Name/’s of the Student : Mrs. K.Sangeetha, M.E,
+
+Team Members: PRABHU.R,SARAVANAN.D,SIVASHANMUGAM.R
+
+6. About (Short Description / Summary):
+Modern hand held devices such as smart phones and PDAs have become increasingly powerful in recent years. Dramatic breakthroughs in processing power along with the number of extra features included in these devices have opened the doors to a wide range of commercial possibilities. In particular, most cell phones regularly include cameras, processors comparable to PCs from only a few years ago, and internet access. As mobile devices become more like PCs they have come to replace objects we tend to carry around such as checkbooks, credit cards, cameras, planners, mp3 players, etc. In short, we are using them to accomplish our daily tasks. One application that falls into this category is our “Camera Contact” Application developed for the Google Android Phones.
+
+7.PROCUDURE:
+
+People are struggling to read bus names, street names, shop names which
+are written in unknown languages.  To overcome this problem this Language
+Reader Application captures the images such as bus board, shop name etc. From the captured image, it extracts the text and transliterates it in the language that the user wants. This application can also read the transliterated text in user readable language.

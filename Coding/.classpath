@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="src" path="/tess-two"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK/OCRTest"/>
+	<classpathentry kind="lib" path="E:/Project/adt-bundle-windows-x86_64/sdk/platforms/android-17/android.jar">
+		<accessrules>
+			<accessrule kind="nonaccessible" pattern="com/android/internal/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="/OCRTest/libs/google-api-translate-java-0.98-mod2.jar"/>
+	<classpathentry kind="lib" path="/OCRTest/libs/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="/OCRTest/libs/jtar-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/OCRTest/libs/microsoft-translator-java-api-0.6-mod.jar"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="src" path="/android"/>
+	<classpathentry kind="src" path="/QRCodeScanner"/>
+	<classpathentry kind="src" path="/kamal"/>
+	<classpathentry kind="lib" path="/QRCodeScanner/libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="/android/bin/android.jar"/>
+	<classpathentry kind="lib" path="/android/libs/core.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
